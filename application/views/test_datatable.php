@@ -6,6 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta charset="utf-8">
     <title>Welcome to CodeIgniter</title>
     <style type="text/css">
+        .xxx{}
         ::selection {
             background-color: #E13300;
             color: white;
@@ -15,7 +16,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             background-color: #E13300;
             color: white;
         }
- 
+
         body {
             background-color: #fff;
             margin: 40px;
